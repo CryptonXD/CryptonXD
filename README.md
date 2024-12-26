@@ -8,7 +8,7 @@
 - Building functional applications with detailed features, including interactive activities and data visualization.
 
 
-# 💞️ Open to Collaborate
+## 🤝 Open to Collaborate
 ## I'm excited to collaborate on:
 - Interactive Quiz and Game Applications: From feature design to result analytics with visualizations.
 - Web Applications with Django: Crafting robust, scalable, and efficient backend systems.
