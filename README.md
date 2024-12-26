@@ -10,13 +10,12 @@
 
 # 💞️ Open to Collaborate
 ## I'm excited to collaborate on:
-
-Interactive Quiz and Game Applications: From feature design to result analytics with visualizations.
-Automation Tools: Including tools like Telegram bots and game auto-clickers.
-Tech Utilities: Apps like internet speed testers with full interfaces and robust settings.
-Open-source projects.
-Tech communities and initiatives.
-Creative and challenging software projects.
+- Interactive Quiz and Game Applications: From feature design to result analytics with visualizations.
+- Automation Tools: Including tools like Telegram bots and game auto-clickers.
+- Tech Utilities: Apps like internet speed testers with full interfaces and robust settings.
+- Open-source projects.
+- Tech communities and initiatives.
+- Creative and challenging software projects.
 
 # 📫 Reach Me At
 - Email: [behruzjorayev09@gmail.com]
