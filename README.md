@@ -20,8 +20,8 @@
 
 # 📫 Reach Me At
 - Email: [behruzjorayev09@gmail.com]
-- LinkedIn: [Your LinkedIn Profile]
 - Telegram: [@CryptonXD]
+- GitHub: CryptonXD
 
 # ⚡ Fun Fact
 - When I’m not coding, I’m brainstorming ways to automate repetitive tasks, experimenting with cutting-edge tools like Django, or gaming to unwind. Every project is an opportunity to learn, create, and grow!
